@@ -14,3 +14,11 @@ DAY 2
 - 2.2 BMI Calculator
 - 2.3 Life in Weeks
 - DAY 2 PROJECT - Tip Calculator
+
+DAY 3
+- 3.1 Odd or Even
+- 3.2 BMI 2.0
+- 3.3 Leap Year
+- 3.4 Pizza Order Practice
+- 3.5 Love Calculator
+- DAY 3 PROJECT - Treasure Island
