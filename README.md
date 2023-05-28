@@ -1,6 +1,6 @@
 # 100DaysOfCode-PythonCourse
 
-100 Days of Code - The Complete Python Pro Bootcamp by Dr.Angela Yu
+100 Days of Code - The Complete Python Pro Bootcamp (Udemy) by Dr.Angela Yu 
 
 DAY 1
 - 1.1 Printing
@@ -27,4 +27,11 @@ DAY 4
 - 4.1 Heads or Tails 
 - 4.2 Banker Roulette
 - 4.3 Treasure Map
-- DAY 3 PROJECT - Rock Paper Scissors
+- DAY 4 PROJECT - Rock Paper Scissors
+
+DAY 5
+- 5.1 Average Height
+- 5.2 High Score
+- 5.3 Adding Even Numbers
+- 5.4 FizzBuzz
+- DAY 5 PROJECT - Password Generator
