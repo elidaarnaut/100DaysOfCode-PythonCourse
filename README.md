@@ -22,3 +22,9 @@ DAY 3
 - 3.4 Pizza Order Practice
 - 3.5 Love Calculator
 - DAY 3 PROJECT - Treasure Island
+
+DAY 4
+- 4.1 Heads or Tails 
+- 4.2 Banker Roulette
+- 4.3 Treasure Map
+- DAY 3 PROJECT - Rock Paper Scissors
