@@ -35,3 +35,10 @@ DAY 5
 - 5.3 Adding Even Numbers
 - 5.4 FizzBuzz
 - DAY 5 PROJECT - Password Generator
+
+DAY 6
+- 6.1 Reebog World task 1
+- 6.2 Reebog World task 2
+- 6.3 Reebog World task 3
+- 6.4 Reebog World task 4
+- DAY 6 PROJECT - Reebog World Maze
