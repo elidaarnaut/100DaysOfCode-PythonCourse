@@ -42,3 +42,6 @@ DAY 6
 - 6.3 Reebog World task 3
 - 6.4 Reebog World task 4
 - DAY 6 PROJECT - Reebog World Maze
+
+DAY 7
+- DAY 7 PROJECT - Hangman Game
