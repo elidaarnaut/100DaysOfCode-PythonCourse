@@ -45,3 +45,10 @@ DAY 6
 
 DAY 7
 - DAY 7 PROJECT - Hangman Game
+
+DAY 8
+- 8.0 Innroduction to the Lesson
+- 8.1 Area Calculator
+- 8.2 Prime Number Checker
+- 8.3 Ceasar Cipher Version 1
+- DAY 8 PROJECT - Ceasar Cipher Version 2
